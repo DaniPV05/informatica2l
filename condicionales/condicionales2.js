@@ -6,3 +6,5 @@ if(numero % 3 == 0)
 if(numero % 5 == 0)
 {console.log ("Su número es divisible entre 5")
 }else{
+    
+}
